@@ -1,0 +1,248 @@
+{
+"carousel":[
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/slider/1.jpg",
+    "title":"MEN FASHION"
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/slider/2.jpg",
+    "title":"WOMEN FASHION"
+  }
+],
+
+ "topCollection":[ 
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/39.jpg",
+    "ratings":5,
+    "title":"Trim Dress",
+    "price":87.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/3.jpg",
+    "ratings":5,
+    "title":"Belted Dress",
+    "price":111.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/1.jpg",
+    "ratings":5,
+    "title":"Fitted Dress",
+    "price":104.40
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/8.jpg",
+    "ratings":5,
+    "title":"Belted Top",
+    "price":49.00
+  }
+],
+
+
+"newProducts":[
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/39.jpg",
+    "ratings":5,
+    "title":"Trim Dress",
+    "price":87.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/8.jpg",
+    "ratings":5,
+    "title":"Belted Top",
+    "price":49.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/14.jpg",
+    "ratings":5,
+    "title":"V-neck Dress",
+    "price":94.50
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/5.jpg",
+    "ratings":5,
+    "title":"Maxi Dress",
+    "price":159.60
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/26.jpg",
+    "ratings":5,
+    "title":"Fit-flare Dress",
+    "price":133.20
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/25.jpg",
+    "ratings":5,
+    "title":"Midi Dress",
+    "price":240.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/33.jpg",
+    "ratings":5,
+    "title":"Tulip Dress",
+    "price":130.50
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/40.jpg",
+    "ratings":5,
+    "title":"Skater Dress",
+    "price":126.00
+  }
+],
+
+
+"bestSeller":[
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/3.jpg",
+    "ratings":5,
+    "title":"Belted Dress",
+    "price":111.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/11.jpg",
+    "ratings":5,
+    "title":"Crop Top",
+    "price":72.60
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/13.jpg",
+    "ratings":5,
+    "title":"Sleeveless Dress",
+    "price":261.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/22.jpg",
+    "ratings":5,
+    "title":"Boho Tops",
+    "price":77.40
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/26.jpg",
+    "ratings":5,
+    "title":"Jumpsuit",
+    "price":225.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/4.jpg",
+    "ratings":5,
+    "title":"Skater Dress",
+    "price":161.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/39.jpg",
+    "ratings":5,
+    "title":"Bodycon Dress",
+    "price":153.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/20.jpg",
+    "ratings":5,
+    "title":"Off Shoulder Dress",
+    "price":144.00
+  }
+],
+
+
+"featuredProducts":[
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/1.jpg",
+    "ratings":5,
+    "title":"Fitted Dress",
+    "price":104.40
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/9.jpg",
+    "ratings":5,
+    "title":"Waist Dress",
+    "price":184.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/15.jpg",
+    "ratings":5,
+    "title":"Wrap Dress",
+    "price":69.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/15.jpg",
+    "ratings":5,
+    "title":"Floral Dress",
+    "price":157.50
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/36.jpg",
+    "ratings":5,
+    "title":"Mini Dress",
+    "price":199.50
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/24.jpg",
+    "ratings":5,
+    "title":"Pink Tunic Dresss",
+    "price":119.40
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/24.jpg",
+    "ratings":5,
+    "title":"Skater Top",
+    "price":84.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/23.jpg",
+    "ratings":5,
+    "title":"Black Short Dress",
+    "price":96.00
+  }
+],
+
+
+"onSale":[
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/8.jpg",
+    "ratings":5,
+    "title":"Belted Top",
+    "price":49.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/22.jpg",
+    "ratings":5,
+    "title":"Boho Tops",
+    "price":77.40
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/37.jpg",
+    "ratings":5,
+    "title":"Knee length Dress",
+    "price":234.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/10.jpg",
+    "ratings":5,
+    "title":"Flutter Dress",
+    "price":198.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/7.jpg",
+    "ratings":5,
+    "title":"Choker Neck Dress",
+    "price":287.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/17.jpg",
+    "ratings":5,
+    "title":"Layered Dress",
+    "price":45.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/12.jpg",
+    "ratings":5,
+    "title":"Choker Neck Top",
+    "price":93.00
+  },
+  {
+    "image":"https://angular.pixelstrap.com/multikart/assets/images/product/fashion/27.jpg",
+    "ratings":5,
+    "title":"Rolled Sleeve Top",
+    "price":196.52
+  }
+]
+
+}

@@ -1,0 +1,27 @@
+<div class="content text-center">
+    <p class="text-danger fs-6">Exclusive Products</p>
+    <p class="collection fs-4 fw-bold border-bottom-danger">SPECIAL PRODUCTS</p>
+    <div class="line d-flex justify-content-center">
+        <div class="bg-danger" style="width: 60px; height: 2px;"></div>
+    </div>
+    <br>
+    <div class="buttons">
+        <button class="btn active" style="border: none !important;" (click)="showNewProducts('newProducts')">NEW PRODUCTS</button>
+        <button class="btn active"style="border: none !important;" (click)="showNewProducts('bestSeller')">BEST SELLERS</button>
+        <button class="btn active" style="border: none !important;" (click)="showNewProducts('featuredProducts')">FEATURED PRODUCTS</button>
+        <button class="btn active" style="border: none !important;" (click)="showNewProducts('onSale')">ON SALE</button>
+    </div>
+</div>
+<div class="cards d-flex justify-content-between flex-wrap">
+    <div *ngFor="let product of products" class="card" style="width: 250px;">
+        <img src="{{product.image}}" alt="">
+        
+        <div class="card flex justify-content-center">
+            <p-rating [(ngModel)]="value" [readonly]="true" [cancel]="false"></p-rating>
+        </div>
+        <div class="title">
+            <p class="fs-6">{{product.title}}</p>
+            <p class="fw-bold">{{product.price | currency}}</p>
+        </div>
+    </div>
+</div>

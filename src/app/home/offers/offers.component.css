@@ -1,0 +1,15 @@
+.card{
+    width: 250px;
+    border-radius: 0;
+    border: 0;
+}
+.offer{
+    width: 500px;
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 10px 5px 50px 5px;
+}
+.collection:hover img{
+    width: 510px;
+    transition: 0.5s;
+}

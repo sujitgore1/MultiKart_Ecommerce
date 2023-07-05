@@ -1,0 +1,40 @@
+<div class="discount-images d-flex justify-content-center align-items-center">
+    <div class="collection position-relative">
+      <img src="../../../assets/home/1 collection.jpg" alt="" class="offer">
+      <div class="text-center position-absolute top-50 start-50 translate-middle-y d-inline-block z-1">
+        <p class="text-danger fs-6 fw-bold">SAVE 50%</p>
+        <p class="fs-1 fw-bold">MEN</p>
+      </div>
+    </div>
+    <div class="collection position-relative">
+      <img src="../../../assets/home/2 collection.jpg" alt="" class="offer">
+      <div class="text-center position-absolute top-50 start-50 translate-middle-y d-inline-block z-1">
+        <p class="text-danger fs-6 fw-bold">SAVE 50%</p>
+        <p class="fs-1 fw-bold">WOMEN</p>
+      </div>
+    </div>
+</div>
+<div class="content text-center">
+    <p class="text-danger fs-6">Special Offer</p>
+    <p class="collection fs-4 fw-bold border-bottom-danger">TOP COLLECTION</p>
+    <div class="line d-flex justify-content-center">
+        <div class="bg-danger" style="width: 60px; height: 2px;"></div>
+    </div>
+    <br>
+    <p class="text-center text-wrap">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry,<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+    </p>
+</div>
+<div class="cards d-flex justify-content-between">
+    <div *ngFor="let product of products" class="card">
+        <img src="{{product.image}}" alt="">
+        
+        <div class="card flex justify-content-center">
+            <p-rating [(ngModel)]="value" [readonly]="true" [cancel]="false"></p-rating>
+        </div>
+        <div class="title">
+            <p class="fs-6">{{product.title}}</p>
+            <p class="fw-bold">{{product.price | currency}}</p>
+        </div>
+    </div>
+</div>

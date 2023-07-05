@@ -1,0 +1,25 @@
+.trends{
+    height: 100vh;
+    background-image: url("https://angular.pixelstrap.com/multikart/assets/images/parallax/1.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* padding-top: 190px; */
+    /* padding-bottom: 190px; */
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.year{
+    font-size: 80px;
+    color: rgb(255, 60, 0);
+}
+.fashion{
+    font-size: 60px;
+}
+.special{
+    font-size: 20px;
+}
+.content{
+    margin-left: 100px;
+}
