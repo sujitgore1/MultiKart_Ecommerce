@@ -1,0 +1,120 @@
+.content{
+    margin-top: 110px;
+}
+
+
+.btn1{
+padding: 9px 23px;
+background-color: orangered;
+color: aliceblue;
+text-decoration: none;
+font-size: 12 px;
+border: 2px solid orangered;
+}
+
+.btn1:hover{
+background-color: white;
+color: black;
+}
+
+.container-fluit{
+    
+    
+    width: auto;
+    position:relative;
+    bottom: 75px;
+            
+}
+
+
+.col-8{
+    background-color: white;
+    box-shadow: 0 0 8px 0 #ddd;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.icons{
+    font-size: 3rem;
+       line-height: 150px;
+    color: orangered;
+    padding-left: 40px;
+    
+       
+}
+.icons:hover{
+    transform: scale(1.1);
+}
+
+.text1{
+    
+    padding-top: 40px;
+   
+    padding-left: 20px;
+    padding-right:20px ;
+
+    
+    
+}
+.text1 h4:hover{
+    color: orangered;
+}
+
+.full-banner{
+    background-image: url("https://angular.pixelstrap.com/multikart/assets/images/parallax/4.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 190px;
+    padding-bottom: 190px;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.full-banner h2 {
+    font-size: 100px;
+    font-weight: 700;
+    color:red;
+    text-transform: uppercase;
+    margin-top: -15px;
+}
+.full-banner h3 {
+    font-size: 60px;
+    color: #333333;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.full-banner h4{
+    font-size: 24px;
+    color: #777777;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+
+}
+
+#img_Hover{
+    padding: 20px;
+}
+
+#img_Hover:hover{
+    transform: scale(1.1);
+}
+
+.textcard p{
+    font-size: 22px;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
+    
+    color: #222222;
+
+}
+
+.textcard p:hover{
+    color: orangered;
+}
+

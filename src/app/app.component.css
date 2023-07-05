@@ -5,8 +5,12 @@
     display: block;
     background-color: rgb(253, 253, 253);
     width: 100vw;
+    margin-bottom: 110px;
 }
 .mininav{
     background-color: #f1f1f1;
     padding: 10px;
+}
+.content{
+    margin-top: 110px;
 }

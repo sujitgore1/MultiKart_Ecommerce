@@ -243,6 +243,82 @@
     "title":"Rolled Sleeve Top",
     "price":196.52
   }
+],
+
+
+
+
+
+
+"TRENDING_PRODUCTS": [
+  {
+    "id": 1,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/product/vegetables/1.jpg",
+    "name": "BEETROOT",
+    "rating":"$35.89",
+    "rating2":"$33.00"
+  },
+  {
+    "id": 2,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/product/vegetables/2.jpg",
+    "name": "Cabbage",
+    "rating":"$24.8",
+    "rating2":"$35.00"
+  },
+  {
+    "id": 3,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/product/vegetables/3.jpg",
+    "name": "Onion",
+    "rating":"$27.50",
+    "rating2":"$27.00"
+  },
+  {
+    "id": 4,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/product/vegetables/4.jpg",
+    "name": "Brinjal",
+    "rating":"$34.77",
+    "rating2":"$22.00"
+  }
+  
+],
+
+"Blog_Detail":[
+  {
+    "id": 1,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/6.jpg",
+    "date": "26 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  },
+  {
+    "id": 2,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/7.jpg",
+    "date": "27 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  }, 
+  {
+    "id": 3,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/9.jpg",
+    "date": "28 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  },
+   {
+    "id": 4,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/8.jpg",
+    "date": "29 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  },
+  {
+    "id": 5,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/6.jpg",
+    "date": "30 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  },
+  {
+    "id": 6,
+    "img": "https://angular.pixelstrap.com/multikart/assets/images/blog/7.jpg",
+    "date": "31 january 2019",
+    "text":"Lorem ipsum dolor sit consectetur adipiscing elit"
+  }
 ]
 
 }
